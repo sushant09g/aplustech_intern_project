@@ -1,0 +1,15 @@
+Attendance management system
+1. User login (Student/Intern/Office staff)
+2. Small profile of each entry
+3. In and out time for office staff and intern and In for students.
+4. Everyone must first signup
+5. After login on locally hosted server one must login.
+6. After login one must see a small profile including information
+   along with current date and time.
+7.Interns and office staff must have option for in and out button
+  which stores current date and time.
+8. Students should have option to select in button and time must be stored.
+9.Profile should include course enrolled for students, intern topic for intern,
+  and small bio for all other added information such as email, phone address.
+10. admin should be able to check the total attendance. 
+11. late arrival, absent etc should be noted. 
